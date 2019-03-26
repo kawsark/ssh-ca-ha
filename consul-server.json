@@ -1,0 +1,9 @@
+{
+  "datacenter": "local-dc1",
+  "data_dir": "/tmp/consul",
+  "log_level": "DEBUG",
+  "server": true,
+  "bootstrap_expect": 3,
+  "enable_script_checks": true,
+  "ui": true
+}
